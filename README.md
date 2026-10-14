@@ -8,7 +8,7 @@ Mobile app (React Native + Expo) for logging what you ate and how it was — dis
 ## Docs
 
 - [`docs/PRD.md`](docs/PRD.md) — MVP product requirements (v2, Oct 14 2026)
-- `docs/DESIGN.md` — design system (pending: confirming which version is current)
+- [`docs/DESIGN.md`](docs/DESIGN.md) — design system, v1 locked Oct 14 2026 (tokens, type scale, screen specs)
 
 ## Stack
 
